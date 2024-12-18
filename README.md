@@ -26,3 +26,6 @@
 ### 7. Date Filters with Hierarchy
 - Added two date filters: one for transaction dates and another for departure dates.
 - Created an additional calendar table specifically for filters to include a date hierarchy. This improvement, although optional, but the date hierarchy is the most convenient type of filters for me.
+
+Screenshot of the main page:
+![image](https://github.com/user-attachments/assets/9d292979-f7c6-47a1-809a-589d47ec80e3)
